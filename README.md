@@ -22,9 +22,9 @@
 
 <h2 align="left">Connect to me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/pawankatwe/" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/linkedin.png" alt="https://www.linkedin.com/in/pawankatwe/" height="40" width="40" /></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/katwepawan/" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/instagram1.svg" alt="punith_gowda35" height="40" width="40" /></a> &nbsp; &nbsp;
-  <a href="mailto:katwepawan@gmail.com" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="katwepawan@gmail.com" height="40" width="40" /></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/pawankatwe/" target="blank"><img align="center" src="icons/linkedin.png" alt="https://www.linkedin.com/in/pawankatwe/" height="40" width="40" /></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/katwepawan/" target="blank"><img align="center" src="icons/instagram1.svg" alt="punith_gowda35" height="40" width="40" /></a> &nbsp; &nbsp;
+  <a href="mailto:katwepawan@gmail.com" target="blank"><img align="center" src="icons/gmail.png" alt="katwepawan@gmail.com" height="40" width="40" /></a> &nbsp; &nbsp;
 </p>
 
 <!--
