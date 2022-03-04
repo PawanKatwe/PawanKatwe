@@ -19,6 +19,10 @@
 
 - <strong>Other skills:</strong>Power Point, Wordpress, SAP ERP, SAP HANA.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKatwe&layout=compact&theme=tokyonight)](https://github.com/PawanKatwe?tab=repositories)
+
+
+
 
 <h2 align="left">Connect to me:</h2>
 <p align="left">
